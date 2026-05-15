@@ -1,3 +1,5 @@
+"use client"
+
 export function BettingInfoSection() {
   const criteria = [
     { label: "Segurança e Licenciamento SRIJ", value: 100 },

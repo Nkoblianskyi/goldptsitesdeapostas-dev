@@ -1,3 +1,5 @@
+"use client"
+
 import Link from "next/link"
 import { ArrowLeft, Trophy, Shield, Users, Target, Award, CheckCircle, Globe, BarChart2 } from "lucide-react"
 import { SiteHeader } from "@/components/site-header"

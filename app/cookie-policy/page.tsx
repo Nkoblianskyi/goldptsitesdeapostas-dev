@@ -1,3 +1,5 @@
+"use client"
+
 import Link from "next/link"
 import { ArrowLeft, Cookie, Settings, BarChart3, Target, Globe, Shield } from "lucide-react"
 import { SiteFooter } from "@/components/site-footer"

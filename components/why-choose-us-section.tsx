@@ -1,3 +1,5 @@
+"use client"
+
 import { Shield, Award, Clock, Users, CheckCircle, Zap } from "lucide-react"
 
 export function WhyChooseUsSection() {
