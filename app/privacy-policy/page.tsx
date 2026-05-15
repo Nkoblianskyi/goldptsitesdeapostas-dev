@@ -80,7 +80,6 @@ Podemos rever esta política periodicamente. Recomendamos que a consulte regular
 Contacto do Responsável pelo Tratamento:
 Email: privacidade@goldptsitesdeapostas.com
 Website: goldptsitesdeapostas.com
-Localização: Lisboa, Portugal`,
     },
   ]
 
