@@ -16,7 +16,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Gold PT Sites de Apostas | Melhores Casas de Apostas Licenciadas SRIJ 2025",
+  title: "Gold PT Sites de Apostas | Melhores Casas de Apostas Licenciadas SRIJ",
   description:
     "Comparador independente das melhores casas de apostas desportivas em Portugal. Análises detalhadas, bónus verificados e operadores licenciados pelo SRIJ. A sua referência em apostas seguras.",
   keywords: [
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     "apostas desportivas online",
     "casas de apostas licenciadas SRIJ",
     "bónus apostas Portugal",
-    "comparador apostas Portugal 2025",
+    "comparador apostas Portugal 2026",
     "apostas futebol Portugal",
     "melhor casa de apostas",
     "sites de apostas seguros",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     canonical: "https://goldptsitesdeapostas.com",
   },
   openGraph: {
-    title: "Gold PT Sites de Apostas | Top Casas de Apostas 2025",
+    title: "Gold PT Sites de Apostas | Top Casas de Apostas 2026",
     description:
       "Encontre as melhores casas de apostas licenciadas em Portugal. Comparações imparciais, bónus exclusivos e guias completos.",
     siteName: "Gold PT Sites de Apostas",
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Gold PT Sites de Apostas | Melhores Casas de Apostas 2025",
+    title: "Gold PT Sites de Apostas | Melhores Casas de Apostas 2026",
     description:
       "Comparador independente das melhores casas de apostas licenciadas pelo SRIJ em Portugal. Bónus verificados e análises reais.",
   },
