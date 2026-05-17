@@ -23,11 +23,13 @@ Ao aceder ao nosso site, confirma que leu e compreendeu esta política. Se não 
 • Respostas a inquéritos ou formulários de feedback
 
 Dados recolhidos automaticamente durante a navegação:
-• Endereço IP e localização geográfica aproximada
+• Endereço IP (de forma agregada e não associado à sua identidade)
 • Tipo de browser, sistema operativo e dispositivo utilizado
 • Páginas visitadas, duração das visitas e interações realizadas
 • Dados de referência (como chegou ao nosso site)
-• Cookies e tecnologias de rastreamento similares`,
+• Cookies e tecnologias de rastreamento similares
+
+Nota: não recolhemos nem tratamos dados de geolocalização precisa nem aproximada dos utilizadores.`,
     },
     {
       icon: FileText,
@@ -79,7 +81,7 @@ Podemos rever esta política periodicamente. Recomendamos que a consulte regular
 
 Contacto do Responsável pelo Tratamento:
 Email: privacidade@goldptsitesdeapostas.com
-Website: goldptsitesdeapostas.com
+Website: goldptsitesdeapostas.com`,
     },
   ]
 
